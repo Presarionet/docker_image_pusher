@@ -6,3 +6,4 @@ xhofe/alist:latest
 portainer/portainer-ce:latest
 jellyfin/jellyfin:latest
 vdsm/virtual-dsm:latest
+openwrt/rootfs:x86_64
